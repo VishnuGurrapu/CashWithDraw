@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.item {
+  width: 40%;
+}
+.btn {
+  width: 100%;
+  color: #d4d2db;
+  background-color: #585076;
+  font-size: 15px;
+  padding: 5px;
+  border-color: #c4c4c4;
+  border-style: solid;
+  border-radius: 5px;
+   cursor: pointer;
+   outline: none;
+}
